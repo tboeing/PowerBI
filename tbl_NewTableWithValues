@@ -1,0 +1,7 @@
+dim Winder =
+{
+    ( "0870"; "R&D-Wickler 1"; "Winder"; ""; 1; ""; "yes");
+    ( "0871"; "Pilot-Wickler"; "Winder"; ""; 9; ""; "yes");
+    ( "0858"; "R&D-Wickler 2"; "Winder"; ""; 2; ""; "yes")
+
+}
